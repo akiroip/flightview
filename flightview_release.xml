@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
-    <version>0.3</version>
-    <build>202410260046</build>
+    <version>0.4</version>
+    <build>202411050012</build>
     <type>simple</type>
     <archive>FV_update.exe</archive>
     <signature>90b0e97d7594a841ac61483afedcd74078c72b9d</signature>
-    <info>Test sustava za aktualizaciju.</info>
+    <info>Dodana opcija za naziv EEO u slici.</info>
 </release>

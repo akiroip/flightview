@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
-    <version>0.4</version>
-    <build>202412312359</build>
+    <version>0.5</version>
+    <build>202503242147</build>
     <type>simple</type>
-    <archive>FV_update.exe</archive>
-    <signature>90b0e97d7594a841ac61483afedcd74078c72b9d</signature>
-    <info>Dodana opcija za naziv EEO u slici.</info>
+    <archive>FlightView_updater.exe</archive>
+    <signature>ee44cc341619c28ae31a16ac961d93c2068f94c7</signature>
+    <info>Ažuriranje podataka o EEO i nova verzija programa.</info>
 </release>
